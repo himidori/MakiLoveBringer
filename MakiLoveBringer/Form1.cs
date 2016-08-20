@@ -27,12 +27,6 @@ namespace MakiLoveBringer
             notifyIcon1.Icon = Properties.Resources.makiiii;
         }
 
-        //windows_phone
-        //private const string ACCESS_TOKEN = "dc8562d5e7457fefc0ea0ac77a4165fc3bf3fe2d88c01f7c02c13309959ca12cb2747b25db84d5733155f";
-        
-        //iphone
-        //private const string ACCESS_TOKEN = "cffeaeb78b88986f32343cfd5e3d598eb3524ac39393ff0e0fda3bbd8111d5d61e139ed1ad2e9cd26cccb";
-
         private List<string> pictureList;
         private int uploadCount = 0;
         private int filesToUpload = 0;
